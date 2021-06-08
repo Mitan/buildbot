@@ -1,0 +1,4 @@
+[flake8]
+
+select =
+    D103 # Missing docstring in public function
